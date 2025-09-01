@@ -16,18 +16,6 @@ Uma experiência visual e sonora inspirada na icônica chuva de caracteres do fi
 
 ## 📁 Estrutura do Projeto
 
-```
-meu-projeto-matrix/
-├── index.html
-├── audio/
-│   └── matrix-sound.mp3  # (opcional, se quiser usar seu próprio áudio)
-├── favicon.ico
-├── favicon-32x32.png
-├── favicon-16x16.png
-├── apple-touch-icon.png
-├── safari-pinned-tab.svg
-├── site.webmanifest
-```
 
 > 💡 O projeto usa um áudio de teste externo por padrão:  
 > `https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3`
@@ -56,6 +44,7 @@ Projeto desenvolvido por **Alessandra** com apoio do Copilot da Microsoft 💙
 Uma jornada de aprendizado, criatividade e superação técnica!
 
 ---
+
 
 
 
